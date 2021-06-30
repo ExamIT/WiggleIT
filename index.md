@@ -17,7 +17,7 @@ Feel free to e-mail us if you have any suggestions or questions: wiggleIT@outloo
 
 WiggleIT handles your content on your device.
 
-The app will otherwise not collect any information about you, or any of your activitie.
+The app will otherwise not collect any information about you, or any of your activities.
 
 If you have any Questions please contact us!
 
