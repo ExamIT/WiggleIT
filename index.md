@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+## WiggleIT
+We move your mouse, so yo don't have to.
 
-You can use the [editor on GitHub](https://github.com/ExamIT/WiggleIT/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Our Goal
 
-### Markdown
+Need your mac to stay active? 
+Don't care for automatic idle states?
+WiggleIT will move your mouse, so you don't have to!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+WiggleIT will move your mouse in an interval of your choosing. 
+Feel free to e-mail us if you have any suggestions or questions: wiggleIT@outlook.com
 
-```markdown
-Syntax highlighted code block
+# Privacy Policy
 
-# Header 1
-## Header 2
-### Header 3
+"WiggleIT" does not collect any data.
 
-- Bulleted
-- List
+WiggleIT handles your content on your device.
 
-1. Numbered
-2. List
+The app will otherwise not collect any information about you, or any of your activitie.
 
-**Bold** and _Italic_ and `Code` text
+If you have any Questions please contact us!
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ExamIT/WiggleIT/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Any Feedback? Email us directly at WiggleIT_App@outlook.com. We are happy to hear from you!
+
